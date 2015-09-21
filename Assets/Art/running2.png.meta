@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: f00c5b35d31ff8040a0014ab2508fbb9
-timeCreated: 1442124669
+timeCreated: 1442512662
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -62,7 +62,7 @@ TextureImporter:
         serializedVersion: 2
         x: 2
         y: 19
-        width: 347
+        width: 338
         height: 378
       alignment: 0
       pivot: {x: .5, y: .5}
@@ -76,7 +76,7 @@ TextureImporter:
         height: 378
       alignment: 0
       pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 8, w: 0}
     - name: running2_2
       rect:
         serializedVersion: 2
@@ -102,7 +102,7 @@ TextureImporter:
         serializedVersion: 2
         x: 1284
         y: 15
-        width: 373
+        width: 361
         height: 384
       alignment: 0
       pivot: {x: .5, y: .5}
@@ -130,10 +130,10 @@ TextureImporter:
     - name: running2_7
       rect:
         serializedVersion: 2
-        x: 2134
-        y: 10
-        width: 281
-        height: 390
+        x: 2138
+        y: 9
+        width: 277
+        height: 391
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
