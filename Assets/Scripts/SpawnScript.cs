@@ -17,7 +17,7 @@ public class SpawnScript : MonoBehaviour {
 
 	void Spawn()
 	{
-		Instantiate (obj [Random.Range (0, obj.GetLength(0))], new Vector3(Player.position.x+20,3,0), Quaternion.identity);
-		Invoke ("Spawn",2f);
+		Instantiate (obj [Random.Range (0, obj.GetLength(0))], new Vector3(Player.position.x,-2,0), Quaternion.identity);
+		Invoke ("Spawn",0.5f);
 	}
 }
