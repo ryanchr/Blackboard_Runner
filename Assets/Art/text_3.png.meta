@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: c44b8df30df535646a995381d15ab5ff
+timeCreated: 1449009468
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: text_3_0
+    21300002: text_3_1
+    21300004: text_3_2
+    21300006: text_3_3
+    21300008: text_3_4
+    21300010: text_3_5
+    21300012: text_3_6
+    21300014: text_3_7
+    21300016: text_3_8
+    21300018: text_3_9
+    21300020: text_3_10
+    21300022: text_3_11
+    21300024: text_3_12
+    21300026: text_3_13
+    21300028: text_3_14
+    21300030: text_3_15
+    21300032: text_3_16
+    21300034: text_3_17
+    21300036: text_3_18
+    21300038: text_3_19
+    21300040: text_3_20
+    21300042: text_3_21
+    21300044: text_3_22
+    21300046: text_3_23
+    21300048: text_3_24
+    21300050: text_3_25
+    21300052: text_3_26
+    21300054: text_3_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: text_3_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1908
+        width: 170
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: text_3_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1824
+        width: 302
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: text_3_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1738
+        width: 268
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: text_3_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1652
+        width: 294
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: text_3_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1571
+        width: 291
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: text_3_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1481
+        width: 202
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: text_3_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1387
+        width: 276
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: text_3_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1293
+        width: 202
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: text_3_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1217
+        width: 168
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: text_3_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1124
+        width: 333
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: text_3_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1026
+        width: 190
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: text_3_11
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 933
+        width: 319
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: text_3_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 849
+        width: 321
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: text_3_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 755
+        width: 479
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: text_3_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 654
+        width: 260
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: text_3_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 564
+        width: 289
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: text_3_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 500
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: text_3_17
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 500
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: text_3_18
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 500
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: text_3_19
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 500
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: text_3_20
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 500
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: text_3_21
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 417
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: text_3_22
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 417
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: text_3_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 417
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: text_3_24
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 417
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: text_3_25
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 417
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: text_3_26
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 306
+        width: 430
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: text_3_27
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 569
+        width: 177
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

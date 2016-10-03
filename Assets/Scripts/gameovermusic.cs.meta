@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 64abd04879f4543188a5f7729bc3ad5a
+timeCreated: 1445985606
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - gameovermusicfile: {instanceID: 0}
+  - ggbackground: {fileID: 8300000, guid: 9556bab069ede4913ac997c635696737, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

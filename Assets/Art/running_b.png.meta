@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: ec79ef582b874a64eb65244f5aadcd44
+timeCreated: 1446946064
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: running_b_0
+    21300002: running_b_1
+    21300004: running_b_2
+    21300006: running_b_3
+    21300008: running_b_4
+    21300010: running_b_5
+    21300012: running_b_6
+    21300014: running_b_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 80
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: running_b_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 430
+        height: 495
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: running_b_1
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 399
+        height: 500
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: running_b_2
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 13
+        width: 259
+        height: 487
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: running_b_3
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 0
+        width: 381
+        height: 500
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: running_b_4
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 7
+        width: 420
+        height: 491
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: running_b_5
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 18
+        width: 340
+        height: 475
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: running_b_6
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 18
+        width: 317
+        height: 480
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: running_b_7
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 15
+        width: 369
+        height: 457
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

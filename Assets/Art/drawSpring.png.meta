@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: ba87fc6e6a27f13499fb45f775df00ea
+timeCreated: 1447699996
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: drawSpring_0
+    21300002: drawSpring_1
+    21300004: drawSpring_2
+    21300006: drawSpring_3
+    21300008: drawSpring_4
+    21300010: drawSpring_5
+    21300012: drawSpring_6
+    21300014: drawSpring_7
+    21300016: drawSpring_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: drawSpring_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1268
+        width: 96
+        height: 182
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drawSpring_1
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1155
+        width: 155
+        height: 145
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drawSpring_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 966
+        width: 155
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drawSpring_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 852
+        width: 92
+        height: 151
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drawSpring_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 654
+        width: 90
+        height: 196
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drawSpring_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 577
+        width: 150
+        height: 120
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drawSpring_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 386
+        width: 155
+        height: 164
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drawSpring_7
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 275
+        width: 94
+        height: 125
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drawSpring_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 86
+        width: 83
+        height: 164
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

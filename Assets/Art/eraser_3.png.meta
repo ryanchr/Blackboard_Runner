@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 2c8b1f88dd4c05348810753370034bc1
+timeCreated: 1447095305
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: eraser_3_0
+    21300002: eraser_3_1
+    21300004: eraser_3_2
+    21300006: eraser_3_3
+    21300008: eraser_3_4
+    21300010: eraser_3_5
+    21300012: eraser_3_6
+    21300014: eraser_3_7
+    21300016: eraser_3_8
+    21300018: eraser_3_9
+    21300020: eraser_3_10
+    21300022: eraser_3_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 80
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: eraser_3_0
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1097
+        width: 420
+        height: 308
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eraser_3_1
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1048
+        width: 445
+        height: 357
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eraser_3_2
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 999
+        width: 478
+        height: 406
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eraser_3_3
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 950
+        width: 506
+        height: 455
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eraser_3_4
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 901
+        width: 537
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eraser_3_5
+      rect:
+        serializedVersion: 2
+        x: 3596
+        y: 848
+        width: 567
+        height: 552
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eraser_3_6
+      rect:
+        serializedVersion: 2
+        x: 4299
+        y: 799
+        width: 567
+        height: 605
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eraser_3_7
+      rect:
+        serializedVersion: 2
+        x: 4998
+        y: 750
+        width: 566
+        height: 654
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eraser_3_8
+      rect:
+        serializedVersion: 2
+        x: 5696
+        y: 701
+        width: 571
+        height: 701
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eraser_3_9
+      rect:
+        serializedVersion: 2
+        x: 6399
+        y: 647
+        width: 566
+        height: 755
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eraser_3_10
+      rect:
+        serializedVersion: 2
+        x: 7097
+        y: 599
+        width: 567
+        height: 804
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eraser_3_11
+      rect:
+        serializedVersion: 2
+        x: 7795
+        y: 550
+        width: 572
+        height: 850
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

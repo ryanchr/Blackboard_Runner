@@ -7,6 +7,18 @@ public class DestroyerScript : MonoBehaviour {
 	{
 		if (other.tag == "Player") {
 			Debug.Break ();
+			return;
+		}
+
+		if (other.tag == "paint")
+		{
+			Destroy(other.gameObject);
+			return;
+		}
+
+		if (other.tag == "box") {
+			Destroy(other.gameObject);
+			return;
 		}
 
 		if (other.gameObject.transform.parent.gameObject) {
